@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>111595640287-rd4lobg73o37ljn63qb92pvo6hl9h5o8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.111595640287-rd4lobg73o37ljn63qb92pvo6hl9h5o8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2IzaOTyfWpEdCE-wImVzNGMIlOkJTX70</string>
+	<key>GCM_SENDER_ID</key>
+	<string>111595640287</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.chatBot</string>
+	<key>PROJECT_ID</key>
+	<string>nutriguide-chatbot</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nutriguide-chatbot.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:111595640287:ios:f7cd93e7a7e64c5dfee06a</string>
+</dict>
+</plist>

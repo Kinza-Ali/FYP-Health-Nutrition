@@ -1,0 +1,6 @@
+module Pods_chatBot_chatBotTests {
+  umbrella header "Pods-chatBot-chatBotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
