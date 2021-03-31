@@ -60,8 +60,8 @@ static void InitializeFlipper(UIApplication *application) {
 //                                                         openURL:url
 //                                               sourceApplication:sourceApplication
 //                                                      annotation:annotation];
-                  return handled;
-                }
+                  // return handled;
+                // }
 - (NSURL *)sourceURLForBridge:(RCTBridge *)bridge
 {
 #if DEBUG
